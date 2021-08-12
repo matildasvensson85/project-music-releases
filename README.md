@@ -1,5 +1,5 @@
 # Project Music Releases
-This projects goal was to create a Music Releases site that would have a similar design to Spotify, using React and API data from Spotify.
+This projects goal was to create a music site with a similar design to Spotify, using React and API data from Spotify.
 
 Made during Technigo Frontend Bootcamp week 9.
 
